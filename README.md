@@ -23,6 +23,6 @@
   
 <h4>Stock market analysis is divided into two parts:</h4>
 <p align=justify>
-<b>Fundamental analysis :</b> involves analyzing a company’s financial statements to determine the fair value of the business
+<b>Fundamental analysis :</b> involves analyzing a company’s financial statements to determine the fair value of the business.<br>
 <b>Technical analysis :</b> assumes that a security’s price already reflects all publicly-available information and instead focuses on the statistical analysis of price movements.
 </p>
